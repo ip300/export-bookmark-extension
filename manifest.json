@@ -1,0 +1,11 @@
+{
+	"name": "Export Bookmark",
+	"version": "0.1",
+	"manifest_version": 3,
+	"permissions": [
+		"bookmarks"
+	],
+	"action": {
+		"default_popup": "popup.html"
+	}
+}
